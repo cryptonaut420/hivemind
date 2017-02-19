@@ -1,0 +1,3 @@
+<?php
+
+/* misc functions */
